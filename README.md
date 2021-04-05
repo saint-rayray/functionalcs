@@ -1,5 +1,5 @@
-#FUNCTIONAL CS#
-##Progress##
+# FUNCTIONAL CS#
+## Progress##
 1. Introduction
 1.1 Studying Strategies
 1.2 Discord channel
