@@ -2,11 +2,12 @@
 ## Progress
 1. Introduction
     1. Studying Strategies
-    1. Discord channel
-2. Preliminaries
-    2. Introduction to Computer Science
+    2. Discord channel
+
+1. Preliminaries
+    1. Introduction to Computer Science
     2. Tools
-    2. Assumed Mathematical Background
+    3. Assumed Mathematical Background
 3. Functional Programming
     3. Principles of Functional Programming
 4. Algebra
