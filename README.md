@@ -2,74 +2,73 @@
 ## Progress
 1. Introduction
     1. Studying Strategies
-    2. Discord channel
-
+    1. Discord channel
 1. Preliminaries
     1. Introduction to Computer Science
-    2. Tools
+    1. Tools
     3. Assumed Mathematical Background
-3. Functional Programming
-    3. Principles of Functional Programming
-4. Algebra
-    4. Linear Algebra
-    4. Abstract Algebra
-5. Discrete Mathematics
-    5. Introduction to Pure Mathematics
-    5. Discrete Math with Standard ML
-    5. Great Theoretical Ideas in Computer Science
-6. Computer Systems & Architecture
-    6. x86 Computer Systems
-    6. RISC-V Architecture
-    6. Operating Systems
-7. Compilers
-8. Database Systems
-    8. Advanced Database Systems
-9. Web
-10. Data Science
-    10. Practical Data Science
-    10. Introduction to Computational Thinking
-    10. Advanced Data Science
-11. Introduction to Computer Music
-12. Meta-Linguistic Abstraction
-    12. Advanced SICP
-13. Natural Language Processing
-14. Programming Language Theory
-15. Isolating Software Failure, Proving Safety and Testing
-    15. Physical Systems Software Security
-16. Algorithms
-    16. Introduction to Parallel and Sequential Algorithms
-    16. Functional Data Structures
-    16. Advanced Data Structures
-    16. Algorithm Design
-17. Complexity Theory
-    17. Undergraduate Complexity Theory
-    17. Graduate Complexity Theory
-    17. Useful Math for Theoretical CS
-18. Introduction to Quantum Computing
-19. Performance Engineering
-20. Topics in Mathematics for Finance
-21. Jobs
-22. Graduate Research in Type Theory
-    22. Basic Proof Theory
-    22. Intro to Category Theory
-    22. Type Theory Foundations
-    22. Higher Dimensional Type Theory
-    22. Computational Higher Type Theory (CHiTT)
-    22. Homotopy Type Theory (HoTT)
-    22. Further Research
-23. Graduate Research in Machine Learning/AI
-    23. General AI
-    23. Math Background for ML
-    23. Statistics Theory
-    23. Modern Regression
-    23. Introduction to Machine Learning
-    23. Introduction to Practical Machine Learning
-    23. Advanced Introduction to ML
-    23. Advanced Statistical learning theory
-    23. Convex Optimization
-    23. Deep Learning
-    23. Further Research
-24. Graduate Research Elective: Cryptography
-    24. Graduate Cryptography Intro
-    24. Applied Cryptography
-    24. Future Research
+1. Functional Programming
+    1. Principles of Functional Programming
+1. Algebra
+    1. Linear Algebra
+    1. Abstract Algebra
+1. Discrete Mathematics
+    1. Introduction to Pure Mathematics
+    1. Discrete Math with Standard ML
+    1. Great Theoretical Ideas in Computer Science
+1. Computer Systems & Architecture
+    1. x86 Computer Systems
+    1. RISC-V Architecture
+    1. Operating Systems
+1. Compilers
+1. Database Systems
+    1. Advanced Database Systems
+1. Web
+1. Data Science
+    1. Practical Data Science
+    1. Introduction to Computational Thinking
+    1. Advanced Data Science
+1. Introduction to Computer Music
+1. Meta-Linguistic Abstraction
+    1. Advanced SICP
+1. Natural Language Processing
+1. Programming Language Theory
+1. Isolating Software Failure, Proving Safety and Testing
+    1. Physical Systems Software Security
+1. Algorithms
+    1. Introduction to Parallel and Sequential Algorithms
+    1. Functional Data Structures
+    1. Advanced Data Structures
+    1. Algorithm Design
+1. Complexity Theory
+    1. Undergraduate Complexity Theory
+    1. Graduate Complexity Theory
+    1. Useful Math for Theoretical CS
+1. Introduction to Quantum Computing
+1. Performance Engineering
+1. Topics in Mathematics for Finance
+1. Jobs
+1. Graduate Research in Type Theory
+    1. Basic Proof Theory
+    1. Intro to Category Theory
+    1. Type Theory Foundations
+    1. Higher Dimensional Type Theory
+    1. Computational Higher Type Theory (CHiTT)
+    1. Homotopy Type Theory (HoTT)
+    1. Further Research
+1. Graduate Research in Machine Learning/AI
+    1. General AI
+    1. Math Background for ML
+    1. Statistics Theory
+    1. Modern Regression
+    1. Introduction to Machine Learning
+    1. Introduction to Practical Machine Learning
+    1. Advanced Introduction to ML
+    1. Advanced Statistical learning theory
+    1. Convex Optimization
+    1. Deep Learning
+    1. Further Research
+1. Graduate Research Elective: Cryptography
+    1. Graduate Cryptography Intro
+    1. Applied Cryptography
+    1. Future Research
