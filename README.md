@@ -6,9 +6,8 @@
     1. ~~Discord channel~~
 1. **Preliminaries**
     1. ~~Introduction to Computer Science~~
-    *Mostly complete, can fill in the gaps when they come up~
+    *Mostly complete, can fill in the gaps when they come up*
     1. **Tools**
-    *Currently doing missing semester in case it ends up making my life easier*
     3. ~~Assumed Mathematical Background~~
     *Skipping to LA/Calc, definitely holes to fill but now I can make sure I'm thoroughly filling them in without falling behind*
 1. Functional Programming
