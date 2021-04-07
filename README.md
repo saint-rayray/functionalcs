@@ -4,14 +4,14 @@
     1. ~~Studying Strategies~~
     *I'll consider it done, there's always ways to improve in this regard*
     1. ~~Discord channel~~
-1. **Preliminaries**
+1. ~~Preliminaries~~
     1. ~~Introduction to Computer Science~~
     *Mostly complete, can fill in the gaps when they come up*
-    1. **Tools**
+    1. ~~Tools~~
     3. ~~Assumed Mathematical Background~~
     *Skipping to LA/Calc, definitely holes to fill but now I can make sure I'm thoroughly filling them in without falling behind*
-1. Functional Programming
-    1. Principles of Functional Programming
+1. **Functional Programming**
+    1. **Principles of Functional Programming**
 1. Algebra
     1. Linear Algebra
     1. Abstract Algebra
