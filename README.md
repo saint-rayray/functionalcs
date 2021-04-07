@@ -1,4 +1,5 @@
 # FUNCTIONAL CS
+https://functionalcs.github.io/curriculum/
 ## Progress
 1. ~~Introduction~~
     1. ~~Studying Strategies~~
