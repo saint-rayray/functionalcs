@@ -1,0 +1,5 @@
+TODO
+
+Complete vimtutor and set some rules to force yourself to use shortcuts more
+Learn regexp and maybe a little sed, sort, and awk
+
