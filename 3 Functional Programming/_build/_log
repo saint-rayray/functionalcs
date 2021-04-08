@@ -1,0 +1,14 @@
+### Starting build.
+# Target: notes.ml.depends, tags: { extension:ml, file:notes.ml, ocaml, ocamldep, quiet }
+/Users/raymondfraser/.opam/default/bin/ocamldep.opt -modules notes.ml > notes.ml.depends
+# Target: notes.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:notes.cmo, file:notes.ml, implem, ocaml, quiet }
+/Users/raymondfraser/.opam/default/bin/ocamlc.opt -c -o notes.cmo notes.ml
++ /Users/raymondfraser/.opam/default/bin/ocamlc.opt -c -o notes.cmo notes.ml
+File "notes.ml", line 8, characters 7-8:
+8 | assert 7=4
+           ^
+Error: This expression has type int but an expression was expected of type
+         bool
+       because it is in the condition of an assertion
+Command exited with code 2.
+# Compilation unsuccessful.
