@@ -1,0 +1,8 @@
+"Rule: ocaml dependencies ml (%=test )": "90\217X\230\127)^\143O\191\028\180\167\153\138"
+"Resource: /Users/raymondfraser/functionalcs/3 Functional/test.ml": "\181;\021T#\149\255h\188oF\153\176\192\1642"
+"Rule: ocaml: ml -> cmo & cmi (%=notes )": "~\248\003\213\r\242$\241\141\1346\246p\242\150 "
+"Resource: /Users/raymondfraser/functionalcs/3 Functional/notes.ml": "\\\194\156\215\238\024.\188\130N\202M1\153*\r"
+"Rule: ocaml: ml -> cmo & cmi (%=test )": "\164\027\187y\249\018\224\217\0018\232\142\130\182\205\176"
+"Rule: ocaml: cmo* -> byte (%=test )": "X\200\001gV\004\222\217\184=\237\220\145<\1888"
+"Rule: ocaml dependencies ml (%=notes )": "\014\146m\194\209\162\136h\21227P\172\005m|"
+"Rule: ocaml: cmo* -> byte (%=notes )": "\161L\228\254zn\\\251!'n\238\182P\242\158"
