@@ -20,8 +20,8 @@ https://functionalcs.github.io/curriculum/
     1. Introduction to Pure Mathematics
     1. Discrete Math with Standard ML
     1. Great Theoretical Ideas in Computer Science
-1. Computer Systems & Architecture
-    1. x86 Computer Systems
+1. **Computer Systems & Architecture**
+    1. **x86 Computer Systems**
     1. RISC-V Architecture
     1. Operating Systems
 1. Compilers

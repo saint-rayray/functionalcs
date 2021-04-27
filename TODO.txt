@@ -1,12 +1,11 @@
 TODO
 
 TODAY:
-OCaml 2.5 Summary definitions
-Look at further reading books
-1 star exercises
+FP Reading 2
+Systems Lab 0
 Write tomorrow's TODO
 
-
+(Labs accessed with https://www.cs.cmu.edu/~213/labs/XXXX.pdf)
 
 AT SOME POINT:
 Complete vimtutor and set some rules to force yourself to use shortcuts more
